@@ -4,7 +4,7 @@ Our project is mainly built for knowing whether it's day or night currently in t
 ## TEAM MEMBERS :
 1. Aishwarya Unnikrishnan :https://github.com/Aishwarya31-cyber
 2. Ashwini
-3. Ashique Haneef
+3. Ashique Haneef:https://github.com/Ashiquehaneefa02
 
 ## TEAM ID :
 FR7BL30R
