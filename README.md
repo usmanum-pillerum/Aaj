@@ -64,12 +64,13 @@ Here’s a section you can add to your README file for *Instructions for Running
 
 ## Instructions for Running
 
-Follow these steps to run the *Bruh-JA Board* on your local machine:
+Follow these steps to run the *Aaj* on your local machine:
 
 1. *Clone the Repository*  
    Clone the repository to your local machine using:
    bash
-   git clone https://github.com/govindka/Bruh-JA-board-1
+   git clone https://github.com/usmanum-pillerum/Aaj.git
+
    
 
 2. *Navigate to the Project Folder*  
