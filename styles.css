@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.5s;
+}
+
+.container {
+    text-align: center;
+}
+
+.day {
+    background-color: #87CEEB; /* Sky blue for day */
+    color: #000;
+}
+
+.night {
+    background-color: #2C3E50; /* Dark blue for night */
+    color: #fff;
+}
